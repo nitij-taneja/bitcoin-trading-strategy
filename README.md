@@ -112,8 +112,7 @@ The project requires the following Python libraries:
 
 You can install them using:  
 
-```
-bash 
+```bash 
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 ```
 ## Acknowledgments
